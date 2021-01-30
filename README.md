@@ -1,3 +1,4 @@
-# 合成炮灰团（合成大西瓜魔改版）
-
-[修改教程来自(Bilibili Up主GJhuxiao)](https://www.bilibili.com/video/BV1nV411q7Ze)
+## 合成大西瓜
+被西瓜整崩溃了,改动了一下代码，点击右上角的宝箱会切换水果。破坏游戏体验，谨慎尝试。
+分支「default」是未改动代码
+> ![image](https://github.com/JennerTien/bigwaterlemon/blob/main/1611557925872957.gif)
